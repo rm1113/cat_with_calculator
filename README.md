@@ -1,5 +1,7 @@
 # Cat with a Calculator
-![Image](https://github.com/user-attachments/assets/e0d1b8eb-021e-45d1-88bf-f73a949db0e9)
+
+<img src="https://github.com/user-attachments/assets/e0d1b8eb-021e-45d1-88bf-f73a949db0e9" width="300">
+
 ## Introduction
 
 The goal of this repository is to gather resources that help newcomers dive into quantum computing.  
