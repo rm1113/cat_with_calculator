@@ -1,6 +1,8 @@
 # Cat with a Calculator
 
-<img src="https://github.com/user-attachments/assets/e0d1b8eb-021e-45d1-88bf-f73a949db0e9" width="300">
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e0d1b8eb-021e-45d1-88bf-f73a949db0e9" width="300" all>
+</p>
 
 ## Introduction
 
