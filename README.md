@@ -61,5 +61,6 @@ A great collection of articles by Alvaro Ballon for PennyLane:
 - `🧑‍💻` [IBM Quantum](https://www.ibm.com/quantum) – Develop quantum algorithms with Qiskit and run them on a 127-qubit system. A free plan is available.
 - `🧑‍💻` [Amazon Braket](https://aws.amazon.com/braket/) – Provides access to multiple quantum processors with different implementations. Use the Python package for development. A free tier plan is available.
 - `🧑‍💻` [PennyLane](https://pennylane.ai/) – An open-source Python framework for quantum programming, introducing a new paradigm: quantum differentiable programming.
+- `🧑‍💻` [Classiq](https://github.com/Classiq/classiq-library) – A high-level quantum programming framework enabling scalable quantum computing, covering design, optimization, execution, and analysis across various hardware and simulators.
 
 ---
