@@ -49,7 +49,7 @@ A great collection of articles by Alvaro Ballon for PennyLane:
 
 - `🎥` [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q&t=227s) - Explains Shor's algorithm. The second part of the video may be difficult for beginners.
 - `🎥` [What is Grover's Algorithm?](https://www.youtube.com/watch?v=_cDIzwycANg) - A clear introduction to Grover’s algorithm.
-- The [classiq-livrary](https://github.com/Classiq/classiq-library) is the largest collection of updated quantum algorithms and applications implementations, accompanied by tutorials and functions to exploit high-level functional design for quantum algorithms.
+- `🧑‍💻` The [classiq-library](https://github.com/Classiq/classiq-library) - The largest collection of updated quantum algorithms and applications implementations, accompanied by tutorials and functions to exploit high-level functional design for quantum algorithms.
 
 
 ## Open Courses
